@@ -12,7 +12,7 @@ public class Main {
         //String, metinsel bir veriyi atama, tanımlama için kullanılan bir Java Class'ıdır.
         //Değişken isimlendirmeleri Java'da camelCase şeklinde yazılır. Yani değişken ismi küçük harfle başlar.
         String ortaMetin = "İlginizi çekebilir.";
-        String altMetin = "Vade Süresi";
+        String altMetin = "Vade Süresii";
 
         //Tanımladığımız metinsel veriyi konsola yazdırmak için kullandığımız ifadedir.
         System.out.println(ortaMetin);
